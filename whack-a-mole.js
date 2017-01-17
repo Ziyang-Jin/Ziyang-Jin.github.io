@@ -1,4 +1,4 @@
-var PATH = "file:///C:/Users/Ziyang%20Jin/Desktop/Project/";
+var PATH = "https://github.com/Ziyang-Jin/Ziyang-Jin.github.io/blob/master/";
 var PIGHEAD_SRC = PATH + "pig-head.png";
 var HOLE_SRC = PATH + "hole.png";
 var aPigHeads = [];
